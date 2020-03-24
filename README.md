@@ -1,36 +1,25 @@
-## Benvenuto sul blog dei Valutatori Sociali di Banca Etica
+## Valutatori Sociali di Banca Etica
 
 Questo Blog è complementare al [Gruppo Facebook dei Valutatori Sociali](https://www.facebook.com/groups/445816879511918/) 
 Contiene ulteriori risorse, collegamenti, approfondimenti che non compaiono nel gruppo.
 Il materiale è liberamente disponibile, ciascuno può forkare il blog come meglio crede, nel rispetto della Licenza
-### Markdown
+### Contenuti
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Legislazione
+# Altri esempi di VS
+# Questioni aperte
+1. come cambia con la nuova valutazione;
+2. può diventare un plus che rimane all'ente per poterlo usare anche nei confronti si altri
+3. può essere un metodo utilizzato per le piccole realtà
+4. relazione con gli Obiettivi dello Sviluppo Sostenibile (SDGs)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Supporto & Contatti
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mauromussin/valutazionesociale/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+Scrivi una mail a mauro.mussin(at)google.com
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
