@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Benvenuto sul blog dei Valutatori Sociali di Banca Etica
 
-You can use the [editor on GitHub](https://github.com/mauromussin/valutazionesociale/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Questo Blog è complementare al [Gruppo Facebook dei Valutatori Sociali](https://www.facebook.com/groups/445816879511918/) 
+Contiene ulteriori risorse, collegamenti, approfondimenti che non compaiono nel gruppo.
+Il materiale è liberamente disponibile, ciascuno può forkare il blog come meglio crede, nel rispetto della Licenza
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
