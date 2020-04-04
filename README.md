@@ -5,7 +5,8 @@ Contiene ulteriori risorse, collegamenti, approfondimenti che non compaiono nel 
 Il materiale è liberamente disponibile, ciascuno può forkare il blog come meglio crede, nel rispetto della Licenza
 # Contenuti
 [Risorse: norme e leggi](https://mauromussin.github.io/valutazionesociale/blog/risorse)
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
 
 ```markdown
 
