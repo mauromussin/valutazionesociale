@@ -18,6 +18,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 4. relazione con gli Obiettivi dello Sviluppo Sostenibile (SDGs)
 ```
 
+# Post
+[Inizia da qui](https://mauromussin.github.io/valutazionesociale/2020/04/04/inizia-da-qui)
 
 ### Supporto & Contatti
 
