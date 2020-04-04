@@ -4,7 +4,7 @@ Questo Blog è complementare al [Gruppo Facebook dei Valutatori Sociali](https:/
 Contiene ulteriori risorse, collegamenti, approfondimenti che non compaiono nel gruppo.
 Il materiale è liberamente disponibile, ciascuno può forkare il blog come meglio crede, nel rispetto della Licenza
 # Contenuti
-[Risorse: norme e leggi](https://mauromussin.github.io/valutazionesociale/blog/risorse)
+[Risorse: norme e leggi](https://mauromussin.github.io/valutazionesociale/contenuti/risorse)
 
 
 
