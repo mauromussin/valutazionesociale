@@ -3,8 +3,8 @@
 Questo Blog è complementare al [Gruppo Facebook dei Valutatori Sociali](https://www.facebook.com/groups/445816879511918/) 
 Contiene ulteriori risorse, collegamenti, approfondimenti che non compaiono nel gruppo.
 Il materiale è liberamente disponibile, ciascuno può forkare il blog come meglio crede, nel rispetto della Licenza
-### Contenuti
-
+# Contenuti
+[Risorse: norme e leggi](https://mauromussin.github.io/valutazionesociale/blog/risorse)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
