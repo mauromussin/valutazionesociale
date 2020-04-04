@@ -20,6 +20,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 # Post
 [Inizia da qui](https://mauromussin.github.io/valutazionesociale/2020/04/04/inizia-da-qui)
+[Tutti i post del blog](https://mauromussin.github.io/valutazionesociale/blog)
 
 ### Supporto & Contatti
 
