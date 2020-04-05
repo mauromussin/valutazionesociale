@@ -8,24 +8,18 @@
 ## Normativa di interesse
 - [D.lgs.231/2001 Responsabilità amministrativa enti](https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2001-06-19&atto.codiceRedazionale=001G0293) 
 
-## Fondo social impact investing Regione Sardegna
-[link](https://www.regione.sardegna.it/j/v/2568?s=388609&v=2&c=3&t=1)
+## Fondi e contributi per la Valutazione d'Impatto 
+[social impact investing Regione Sardegna](https://www.regione.sardegna.it/j/v/2568?s=388609&v=2&c=3&t=1)
 
-## Fondo per l’innovazione sociale
-[link](http://www.governo.it/it/articolo/fondo-l-innovazione-sociale-avviso-pubblico-la-selezione-di-progetti-sperimentali/11333)
+[Fondo per l’innovazione sociale](http://www.governo.it/it/articolo/fondo-l-innovazione-sociale-avviso-pubblico-la-selezione-di-progetti-sperimentali/11333)
 
 ## L'indicatore Benessere Economico e Sociale (BES)
 [link all'ISTAT](https://www4.istat.it/it/benessere-e-sostenibilit%C3%A0/misure-del-benessere)
 
-## Società Benefit
-[Obllighi di reportistica](http://www.societabenefit.net/obblighi-di-reportistica/)
+## Varie
+[Obblighi di reportistica per le Società Benefit](http://www.societabenefit.net/obblighi-di-reportistica/)
 
-## Articolo Impresa Sociale
+[Articolo Impresa Sociale](http://www.rivistaimpresasociale.it/rivista/item/141-misurazione-impatto-sociale/141-misurazione-impatto-sociale.html?limitstart=0)
 
-http://www.rivistaimpresasociale.it/rivista/item/141-misurazione-impatto-sociale/141-misurazione-impatto-sociale.html?limitstart=0
+[Universal standard della SPTF](https://www.ilo.org/jakarta/whatwedo/publications/WCMS_216592/lang--en/index.htm)
 
-universal standard della SPTF https://www.ilo.org/jakarta/whatwedo/publications/WCMS_216592/lang--en/index.htm
-
-Federico Mento, social value italia
-
-glossario, guida, ONG
