@@ -6,6 +6,7 @@ Il materiale è liberamente disponibile, ciascuno può forkare il blog come megl
 
 # Post
 [Inizia da qui](https://mauromussin.github.io/valutazionesociale/2020/04/04/inizia-da-qui)
+
 [Rinnovare la valutazione sociale?](https://mauromussin.github.io/valutazionesociale/2020/04/05/valutazione-manifesto.html)
 
 
