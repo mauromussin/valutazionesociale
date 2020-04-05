@@ -3,26 +3,15 @@
 Questo Blog è complementare al [Gruppo Facebook dei Valutatori Sociali](https://www.facebook.com/groups/445816879511918/) 
 Contiene ulteriori risorse, collegamenti, approfondimenti che non compaiono nel gruppo.
 Il materiale è liberamente disponibile, ciascuno può forkare il blog come meglio crede, nel rispetto della Licenza
-# Contenuti
-[Risorse: norme e leggi](https://mauromussin.github.io/valutazionesociale/contenuti/risorse)
-
-
-
-```markdown
-
-# Legislazione
-# Altri esempi di VS
-# Questioni aperte
-1. come cambia con la nuova valutazione;
-2. può diventare un plus che rimane all'ente per poterlo usare anche nei confronti si altri
-3. può essere un metodo utilizzato per le piccole realtà
-4. relazione con gli Obiettivi dello Sviluppo Sostenibile (SDGs)
-```
 
 # Post
 [Inizia da qui](https://mauromussin.github.io/valutazionesociale/2020/04/04/inizia-da-qui)
 
 [Tutti i post del blog](https://mauromussin.github.io/valutazionesociale/blog)
+
+# Contenuti
+[Risorse: norme e leggi](https://mauromussin.github.io/valutazionesociale/contenuti/risorse)
+
 
 ### Supporto & Contatti
 
