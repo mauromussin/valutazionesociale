@@ -1,3 +1,7 @@
+---
+layout: default
+title:  "Home"
+---
 ## Valutatori Sociali di Banca Etica
 
 Questo Blog è complementare al [Gruppo Facebook dei Valutatori Sociali](https://www.facebook.com/groups/445816879511918/) 
