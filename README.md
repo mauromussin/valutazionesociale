@@ -13,6 +13,7 @@ Il materiale è liberamente disponibile, ciascuno può forkare il blog come megl
 
 [Rinnovare la valutazione sociale?](https://mauromussin.github.io/valutazionesociale/2020/04/05/valutazione-manifesto.html)
 
+[Storie di valutazione](https://mauromussin.github.io/valutazionesociale/2020/04/08/storie-di-valutazione.html)
 
 # Contenuti
 [Risorse: norme e leggi](https://mauromussin.github.io/valutazionesociale/contenuti/risorse)
