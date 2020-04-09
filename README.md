@@ -17,6 +17,9 @@ Il materiale è liberamente disponibile, ciascuno può forkare il blog come megl
 # Contenuti
 [Risorse: norme e leggi](https://mauromussin.github.io/valutazionesociale/contenuti/risorse)
 
+# Vuoi partecipare alla discussione?
+Perfetto! Solo che non ho ancora configurato lo spazio per i commenti :sad:
+Però, se vuoi puoi scrivermi una mail e pubblicherò il tuo contributo più che volentieri!
 
 ### Supporto & Contatti
 
