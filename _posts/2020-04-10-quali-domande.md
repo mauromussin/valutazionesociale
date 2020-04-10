@@ -27,7 +27,7 @@ Quando è cambiato il GIT i nuovi membri si sono trovati spiazzati dalle domande
 
 In quel momento un valutatore ha ripescato la comunicazione e l'ha rigirata al GIT, mentre io ho cambiato le domande cui dovevano rispondere i membri del GIT.
 
-In quella comunicazione, le tre domande vengono dopo una frase sottolineata (e quindi la più importante della comunicazione) che dice che i membri del GIT non dovrebbero entrare nel merito delle singole questioni ma rispondere _indirettamente_ alle domande.
+In quella comunicazione, le tre domande vengono dopo una frase sottolineata (e quindi la più importante) che dice che i membri del GIT non dovrebbero entrare nel merito delle singole questioni ma rispondere _indirettamente_ alle domande.
 
 E qui si entra nell'esegesi, o se preferite nell'esame linguistico e semantico della frase.
 Perché le domande sono a chiarimento del fatto che i membri del GIT non entrano nel merito, e quindi il loro parere deve consentire di apprezzare la valutazione sui tre punti: **conoscenza della realtà, conoscenza di fatti reputazionali, giudizio complessivo.**
