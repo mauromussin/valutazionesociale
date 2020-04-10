@@ -40,5 +40,5 @@ Gli indici di impatto: ci è stato detto che sono fondamentali. Da una mail ho i
 
 Della chiusura, del parere dei GIT e delle domande abbiamo già accennato, ma forse si può anche approfondire.
 
-
+**[HOME](https://mauromussin.github.io/valutazionesociale/)**
 
