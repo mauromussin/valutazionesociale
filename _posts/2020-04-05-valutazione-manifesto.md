@@ -45,3 +45,5 @@ Questo è un tema che è rimasto sotterraneo come un _fiume carsico_; non ha ces
 Ora forse vale la pena riprendere questo tema, anche alla luce del nuovo ruolo dei banchieri ambulanti, diventati o dipendenti o liberi
 professionisti, e della nuova figura di socio "animatore di soci in rete", per il quale è prevista una qualche forma di retribuzione.
 Anche qui, non ho risposte; ma forse vale la pena aprire una discussione ampia e libera tra tutti.
+
+**[HOME](https://mauromussin.github.io/valutazionesociale/)**
