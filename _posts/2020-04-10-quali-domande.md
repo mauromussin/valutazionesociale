@@ -56,3 +56,5 @@ basandovi sugli elementi forniti (indipendentemente dalla vostra conoscenza del 
 oppure diverso.
 ```
 [^nota]: una statistica è quello che è, e non deve essere utilizzata per dire cose che non può dire. Le domande sono troppo generiche e quindi le risposte sono sempre le stesse? Oppure sono inutili? Non sono selettive? Non può certo essere una statistica a dirlo...
+
+**[HOME](https://mauromussin.github.io/valutazionesociale/)**
