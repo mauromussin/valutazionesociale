@@ -8,11 +8,14 @@ Il materiale è liberamente disponibile, ciascuno può forkare il blog come megl
 # Post
 [Inizia da qui](https://mauromussin.github.io/valutazionesociale/2020/04/04/inizia-da-qui)
 
-[Rinnovare la valutazione sociale?](https://mauromussin.github.io/valutazionesociale/2020/04/05/valutazione-manifesto.html)
+[Quali domande fare al GIT?](https://mauromussin.github.io/valutazionesociale/2020/04/10/quali-domande)
+
+[La nuova piattaforma](https://mauromussin.github.io/valutazionesociale/2020/04/09/la-nuova-piattaforma.html)
 
 [Storie di valutazione](https://mauromussin.github.io/valutazionesociale/2020/04/08/storie-di-valutazioni.html)
 
-[La nuova piattaforma](https://mauromussin.github.io/valutazionesociale/2020/04/09/la-nuova-piattaforma.html)
+[Rinnovare la valutazione sociale?](https://mauromussin.github.io/valutazionesociale/2020/04/05/valutazione-manifesto.html)
+
 
 # Contenuti
 [Risorse: norme e leggi](https://mauromussin.github.io/valutazionesociale/contenuti/risorse)
