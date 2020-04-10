@@ -63,3 +63,4 @@ Dunque? Basta con i **valutatori volontari**?
 
 Dove possa portare questo discorso io non lo so, quello che so è che se non se ne parla non si potrà prendere alcuna decisione ponderata.
 
+**[HOME](https://mauromussin.github.io/valutazionesociale/)**
