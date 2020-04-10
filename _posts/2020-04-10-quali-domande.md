@@ -5,15 +5,16 @@ title: Quali domande fare al GIT?
 
 Le tre domande che tutti i valutatori (davvero tutti? mi piacerebbe saperlo...) fanno al GIT per l'espressione del parere sono frutto di una comunicazione dell'Ufficio Relazioni culturali che potete trovare [qui](https://drive.google.com/file/d/1jouP56kBnn2l73kF_qrVdd3TgYk4WAY6/view?usp=sharing).
 Nel dettaglio:
-> I componenti del GIT dovrebbero rispondere indirettamente alle seguenti domande:
-> 1. Conosci la realtà cliente oggetto di valutazione sociale?
-> 2. Sei a conoscenza di notizie negative o controverse in capo alla realtà cliente che mettono a rischio il 
->    capitale reputazionale di Banca Etica?
-> 3. Quale giudizio assegneresti (positivo/negativo)?
-
+```
+I componenti del GIT dovrebbero rispondere indirettamente alle seguenti domande:
+ 1. Conosci la realtà cliente oggetto di valutazione sociale?
+ 2. Sei a conoscenza di notizie negative o controverse in capo alla realtà cliente che mettono a rischio il 
+    capitale reputazionale di Banca Etica?
+ 3. Quale giudizio assegneresti (positivo/negativo)?
+```
 Poi torniamo su quell' _indirettamente_ e sul resto delle indicazioni.
 
-Ho fatto una statistica:
+Ho fatto una statistica[^nota]:
 Tra il 2015 e il 2017, per 9 valutazioni che ho fatto, i 10 membri del GIT si sono espressi:
 
 1 domanda: 23/90 no, 7/90 sì per un totale di 30/90 espressioni;
@@ -54,3 +55,4 @@ basandovi sugli elementi forniti (indipendentemente dalla vostra conoscenza del 
 5. se ritenete che la valutazione debba essere considerata valida per il periodo suggerito dal valutatore 
 oppure diverso.
 ```
+[^nota]: una statistica è quello che è, e non deve essere utilizzata per dire cose che non può dire. Le domande sono troppo generiche e quindi le risposte sono sempre le stesse? Oppure sono inutili? Non sono selettive? Non può certo essere una statistica a dirlo...
