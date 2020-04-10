@@ -22,6 +22,8 @@ Per il momento l'unico modo per aggiungere contenuti è quello di agire direttam
 # Posso aiutare?
 Io non sono un esperto di informatica, perciò ogni aiuto è benvenuto!
 In particolare vorrei sviluppare:
-- [ ] un template con una sidebar
-- [ ] la possibilità di inserire commenti con staticman
+- un template con una sidebar
+- la possibilità di inserire commenti con staticman
 Se hai delle capacità su questi o su altri aspetti, proponiti! Lo sviluppo di questo sito viene gestito attraverso le funzionalità di Github (issue, pull request, ecc.)
+
+**[HOME](https://mauromussin.github.io/valutazionesociale/)**
