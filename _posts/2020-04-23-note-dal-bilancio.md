@@ -50,9 +50,12 @@ Ma quindi: se il valutatore deve parlare di rimborsi parla con l'RCA e se deve p
 O l'RCA fa da tramite? Ancora non è chiaro, per quanto si legga nel _Regolamento_ una importante affermazione, che vale la pena riportare per
 intero:
 ```
-L’Ufficio Modelli di Impatto e VSA è sempre a disposizione sia delle Valutatrici e Valutatori Sociali, sia delle lavoratrici e
-dei lavoratori di Banca Etica che si occupano delle istruttorie economico-patrimoniali, in particolare per quanto riguarda:
-- le richieste di consulenza e pareri sull’interpretazione dei criteri di valutazione;
+L’Ufficio Modelli di Impatto e VSA è sempre a disposizione sia delle 
+Valutatrici e Valutatori Sociali, sia delle lavoratrici e
+dei lavoratori di Banca Etica che si occupano delle istruttorie 
+economico-patrimoniali, in particolare per quanto riguarda:
+- le richieste di consulenza e pareri sull’interpretazione 
+  dei criteri di valutazione;
 - la soluzione di problemi con la Piattaforma del Credito.
 ```
 
