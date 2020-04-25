@@ -8,6 +8,8 @@ Il materiale è liberamente disponibile, ciascuno può forkare il blog come megl
 # Post
 [Inizia da qui](https://mauromussin.github.io/valutazionesociale/2020/04/04/inizia-da-qui)
 
+[Le note al Bilancio 2019](https://mauromussin.github.io/valutazionesociale/2020/04/23/note-dal-bilancio)
+
 [Quali domande fare al GIT?](https://mauromussin.github.io/valutazionesociale/2020/04/10/quali-domande)
 
 [La nuova piattaforma](https://mauromussin.github.io/valutazionesociale/2020/04/09/la-nuova-piattaforma.html)
