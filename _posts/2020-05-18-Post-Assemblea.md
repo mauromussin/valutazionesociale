@@ -8,11 +8,15 @@ Il nostro socio Giupi ha fatto una richiesta formale per sapere quali fossero st
 Valutazione Sociale nel 2019, dal momento che non erano stati riportati in Bilancio.
 La risposta è stata la seguente:
 
-_La spesa sostenuta nel 2019 per i soli valutatori sociali ammonta in totale a euro 24.690:
-- Rimborsi spese per euro 12.656
-- Polizza infortuni per euro 6.750
-- Formazione per euro 5.284
-Questi importi si riferiscono solamente ai costi diretti e non includono la valorizzazione delle ore
+_La spesa sostenuta nel 2019 per i soli valutatori sociali ammonta in totale a euro 24.690:_
+
+_Rimborsi spese per euro 12.656_
+
+_Polizza infortuni per euro 6.750_
+
+_Formazione per euro 5.284_
+
+_Questi importi si riferiscono solamente ai costi diretti e non includono la valorizzazione delle ore
 di lavoro dedicate dagli RCA della banca e dall'ufficio VSA per lo svolgimento della formazione
 dei valutatori_
 
